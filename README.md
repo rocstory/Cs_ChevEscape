@@ -43,9 +43,6 @@ Chev's Escape contains four puzzles which are: the **Memory Puzzle**,**Image Scr
 - Asperite
 - Audacity
 
-### 2.4 Miscellaneous
-- IR Reflectors
-
 ## 3 Setup and Installation
 To install Chev Escape onto your computer, download [**ChevEscape.exe**](https://github.com/rocstory/Cs_ChevEscape/blob/master/ChevEscape.exe) and double click to play.
 

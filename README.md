@@ -53,17 +53,17 @@ To install Chev Escape onto your computer, download [**ChevEscape.exe**](https:/
 ## Credits
 Below are roles each individual on the project in the development of Chev's Escape.
 
-- Malik Roc <br/>
-      - Developed the following: 
-          - Game engine (GameUtilities.cs)
-          - Main Menu Form
-          - Instructions Form
-          - Main room Form
-          - Memory Puzzle Form
-          - Color Puzzle Form
-          - Image Scrambler Form
-          - Winning Game Scene Form
-     - Artwork
+- Malik Roc
+  - Developed the following: 
+    - Game engine (GameUtilities.cs)
+    - Main Menu Form
+    - Instructions Form
+    - Main room Form
+    - Memory Puzzle Form
+    - Color Puzzle Form
+    - Image Scrambler Form
+    - Winning Game Scene Form
+- Artwork
 - Matheus Alexandre
       - Developed the following:
           - Brain Buster Puzzle Form

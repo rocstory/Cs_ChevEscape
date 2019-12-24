@@ -53,7 +53,7 @@ To install Chev Escape onto your computer, download [**ChevEscape.exe**](https:/
 ## Credits
 Below are roles each individual on the project in the development of Chev's Escape.
 
-- Malik Roc
+- Malik Roc <br/>
       - Developed the following: 
           - Game engine (GameUtilities.cs)
           - Main Menu Form

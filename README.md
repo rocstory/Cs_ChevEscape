@@ -2,7 +2,6 @@
 This repository contains files relating to the development of a 2D top down video game using Visual Studio 2019 (VS) Winforms.
 Chev's Escape is a team based Object Oriented Software Engineering project at **Western Connecticut State University (WCSU)**.
 
-
 ## Team Members
 - Malik Roc (Project lead) 
 - [Matheus Alexandre](https://github.com/madatedeus)

@@ -63,14 +63,14 @@ Below are roles each individual on the project in the development of Chev's Esca
     - Color Puzzle Form
     - Image Scrambler Form
     - Winning Game Scene Form
-- Artwork
+  - Artwork
 - Matheus Alexandre
-      - Developed the following:
-          - Brain Buster Puzzle Form
+  - Developed the following:
+      - Brain Buster Puzzle Form
 - Krishan Singh
-      - Developed the following:
-          - Image Scrambler Modal Form
+  - Developed the following:
+    - Image Scrambler Modal Form
 - Stephen Alpuche
-      - Designed the Color Puzzle
+  - Designed the Color Puzzle
 - Cory Pineau
-      - Developed the sound effects.
+  - Developed the sound effects.

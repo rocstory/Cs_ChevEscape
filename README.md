@@ -63,7 +63,7 @@ Below are roles each individual on the project in the development of Chev's Esca
     - Color Puzzle Form
     - Image Scrambler Form
     - Winning Game Scene Form
-  - Artwork
+  - Created the artwork
 - Matheus Alexandre
   - Developed the following:
       - Brain Buster Puzzle Form

@@ -19,6 +19,19 @@ The goal of this project is to create a video game with an object oriented appro
 
 Chev's Escape is a Windows Platform 2D top down video game that utilizes VS 2019 Winforms.
 
+## 1.2 Puzzles
+Chev's Escape contains four puzzles which are: the **Memory Puzzle**,**Image Scrambler Puzzle**,**Color Puzzle**, and **Brain Buster Puzzle**.
+
+## 1.2.1
+- **Memory Puzzle**
+  - A puzzle which requires the player to memorize four generated sequences.
+- **Image Scrambler**
+  - A puzzle which requires the player to unscramble a given image under a certain amount of time.
+- **Color Puzzle**
+  - A puzzle which requires the player to turn all blocks blue.
+- **Brain Buster Puzzle**
+  - A Puzzle which requires the player to move in the prompted direction under a certain amount of time.
+
 ## 2 Requirements and Dependencies
 
 ### 2.1. Hardware
@@ -29,9 +42,6 @@ Chev's Escape is a Windows Platform 2D top down video game that utilizes VS 2019
 - C#
 - Asperite
 - Audacity
-
-### 2.3 Casing
--
 
 ### 2.4 Miscellaneous
 - IR Reflectors
